@@ -12,7 +12,7 @@ I am a chemical engineering graduate student passionate about data science, comp
 ## 🛠️ My Skills  
 
 ### ✨ Programming Languages:
-🔹 Python 🔹 C++ 
+🔹 Python 🔹 C++ 🔹 Kotlin 🔹 JavaScript
 
 ### ⚙️ Tools and Technologies:
 🔹 Jupyter Notebooks 🔹 Git and GitHub 🔹 MATLAB 🔹 HYSYS  
