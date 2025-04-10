@@ -5,7 +5,7 @@
 # Hi 👋, I’m Dara  
 
 ## 👨‍🔬 About Me  
-I am a chemical engineering graduate student passionate about data science, computational tools, and machine learning. My focus is on leveraging these technologies to solve industrial challenges and drive innovation in chemical engineering.
+I am a chemical engineering graduate student passionate about data science, computational tools, and machine learning. My focus is on leveraging these technologies to solve industrial challenges and drive innovation.
 
 ---
 
