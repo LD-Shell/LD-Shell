@@ -18,7 +18,7 @@ I am a chemical engineering graduate student passionate about data science, comp
 🔹 Jupyter Notebooks 🔹 Git and GitHub 🔹 MATLAB 🔹 HYSYS  
 
 ### 📊 Data Analysis and Visualization:
-🔹 Matplotlib, Seaborn 🔹 Tableau & PowerBI  
+🔹 Matplotlib, Seaborn 🔹 Tableau  
 
 ### 🔬 Research and Development:
 🔹 Process Modeling and Simulation 🔹 Machine Learning in Chemical Engineering 🔹 Molecular Dynamics Studies  
