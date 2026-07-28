@@ -4,26 +4,26 @@
 
 # Hi 👋, I’m Dara  
 
-## 👨‍🔬 About Me  
+## About Me  
 I am a chemical engineering graduate student passionate about data science, computational tools, and machine learning. My focus is on leveraging these technologies to solve industrial challenges and drive innovation.
 
 ---
 
-## 🛠️ My Skills  
+## My Skills  
 
-### ✨ Programming Languages:
+### Programming Languages:
 🔹 Python 🔹 C++ 🔹 JavaScript
 
-### ⚙️ Tools and Technologies:
+### Tools and Technologies:
 🔹 Jupyter Notebooks 🔹 Git and GitHub 🔹 MATLAB 🔹 HYSYS  
 
-### 📊 Data Analysis and Visualization:
+### Data Analysis and Visualization:
 🔹 Matplotlib, Seaborn 🔹 Tableau  
 
-### 🔬 Research and Development:
+### Research and Development:
 🔹 Process Modeling and Simulation 🔹 Machine Learning in Chemical Engineering 🔹 Molecular Dynamics Studies  
 
-### 📚 Continuous Learning:
+### Continuous Learning:
 I am committed to **lifelong learning** and **expanding my skill set** through courses, workshops, and collaborative projects.
 
 ---
@@ -35,19 +35,5 @@ I am committed to **lifelong learning** and **expanding my skill set** through c
 - Process Engineering & Modeling  
 - Molecular Dynamics Simulations  
 - Interdisciplinary Research  
-
----
-
-## 🚀 GitHub Insights  
-
-<div align="center">
-
-### 📌 GitHub Contributions  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LD-Shell&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="🔥 GitHub Streak" />
-
-### 📌 Most Used Languages  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LD-Shell&layout=compact&theme=tokyonight&hide_border=true" alt="📌 Top Languages" />
-
-</div>
 
 ---
