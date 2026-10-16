@@ -28,7 +28,7 @@ I am committed to **lifelong learning** and **expanding my skill set** through c
 
 ---
 
-## 🤝 Let's Connect  
+## Let's Connect  
 
 🔹 **Open to collaborations and discussions on:**  
 - Data Science & AI in Engineering  
